@@ -10,7 +10,13 @@ At school i'm learining **C** (_The basics_)
 
 <code>
   <a href ="https://it.wikipedia.org/wiki/JavaScript">
-    <img height="20" alt="Logo Javascript" "src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img height="20" "src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  </a>
+</code>
+                                                                                                                                                      
+                                                                                                                                                      <code>
+<a href ="https://it.wikipedia.org/wiki/HTML#:~:text=In%20informatica%20l'HyperText%20Markup,%C3%A8%20un%20linguaggio%20di%20markup.">
+    <img height="20" "src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   </a>
 </code>
 

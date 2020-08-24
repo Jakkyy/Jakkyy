@@ -20,11 +20,11 @@ At school i'm learining **C** (_The basics_)
 ## Main Repository:
 
 <a href ="https://github.com/Jakkyy/Germafrancabot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=Germafrancabot&theme=calm"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=Germafrancabot&theme=gotham"
 </a>
 
 <a href ="https://github.com/Jakky/C-Excercise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=calm"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=gotham"
 </a>
   
 

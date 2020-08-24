@@ -13,7 +13,7 @@ Hi my name is **Jacopo** i'm a *17yo* "programmer"
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakkyy&theme=highcontrast" />
 </a>
----
+
 ## Main Repository:
 
 

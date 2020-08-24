@@ -2,7 +2,7 @@
 ---
 Hi my name is **Jacopo** i'm a *17yo* "programmer"
 
-**Social:**
+**Social:** <break>
 [Discord Server](https://discord.gg/bSEnnT)
 
 

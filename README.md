@@ -11,20 +11,20 @@ At school i'm learining **C** (_The basics_)
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jakkyy&show_icons=true&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jakkyy&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakkyy&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakkyy&theme=onedark" />
 </a>
 
 ## Main Repository:
 
 <a href ="https://github.com/Jakkyy/Germafrancabot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=Germafrancabot&theme=shades-of-purple"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=Germafrancabot&theme=calm"
 </a>
 
 <a href ="https://github.com/Jakky/C-Excercise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=shades-of-purple"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=calm"
 </a>
   
 

@@ -3,7 +3,7 @@
 Hi my name is **Jacopo** i'm a *17yo* "programmer" from _italy_ 🍝
 
 I'm currently learning **JavaScript** and **Html/Css**.
-At school i'm learining **C** (_The basics_)
+At school i'm learning **C** (_The basics_)
 
 **Social:**
 [Discord Server](https://discord.gg/bSEnnT)

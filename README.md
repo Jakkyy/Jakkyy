@@ -8,6 +8,10 @@ At school i'm learining **C** (_The basics_)
 **Social:**
 [Discord Server](https://discord.gg/bSEnnT)
 
+<a href="https://discord.gg/bSEnnT">
+  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/Jakkyy/Jakkyy/assetsdiscord-js.svg" />
+</a>
+
 
 ---
 

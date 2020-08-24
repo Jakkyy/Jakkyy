@@ -1,3 +1,4 @@
+![Discord-logo](/assets/discord-logo.png)
 
 <a href="https://discord.gg/bSEnnT"
   <img src="https://raw.githubusercontent.com/Jakkyy/Jakkyy/asset/discord-logo.png" />

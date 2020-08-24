@@ -24,6 +24,9 @@ Hi my name is **Jacopo** i'm a *17yo* "programmer"
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=highcontrast"
 </a>
   
+ <a href ="https://github.com/anuraghazra/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=highcontrast"
+</a>
 
 
 

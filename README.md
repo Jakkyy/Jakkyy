@@ -1,6 +1,6 @@
 
 <a href="https://discord.gg/bSEnnT"
-  <img alt="Server Discord" src="https://raw.githubusercontent.com/Jakkyy/Jakkyy/master/assets/discord-logo.png" />
+  <img src="https://raw.githubusercontent.com/Jakkyy/Jakkyy/asset/discord-logo.png" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

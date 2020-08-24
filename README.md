@@ -5,7 +5,7 @@ Hi my name is **Jacopo** i'm a *17yo* "programmer" from _italy_ 🍝
 I'm currently learning **JavaScript** and **Html/Css**.
 At school i'm learning **C** (_The basics_)
 
-**Social:**
+**Social:**  
 [Discord Server](https://discord.gg/bSEnnT)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

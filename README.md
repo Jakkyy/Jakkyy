@@ -2,6 +2,9 @@
 
 Hi my name is **Jacopo** i'm a *17yo* "programmer" from _italy_ 🍝
 
+I'm currently learning **JavaScript** and **Html/Css**.
+At school i'm learining **C** (_The basics_)
+
 **Social:** <break>
 [Discord Server](https://discord.gg/bSEnnT)
 

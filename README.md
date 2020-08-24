@@ -1,6 +1,8 @@
-#Welcome to my profile 👋
+# Welcome to my profile 👋
 ---
 Hi my name is **Jacopo** i'm a *17yo* "programmer"
+
+**Social:**
 [Discord Server](https://discord.gg/bSEnnT)
 
 

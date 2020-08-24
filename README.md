@@ -8,10 +8,7 @@ At school i'm learining **C** (_The basics_)
 **Social:**
 [Discord Server](https://discord.gg/bSEnnT)
 
-<a href="https://discord.gg/bSEnnT">
-  <img align="left" alt="v" width="21px" src="https://raw.githubusercontent.com/Jakkyy/Jakkyy/assetsdiscord-js.svg" />
-</a>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ---
 

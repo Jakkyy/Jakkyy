@@ -17,4 +17,6 @@ Hi my name is **Jacopo** i'm a *17yo* "programmer"
 ## Main Repository:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=Germafrancabot&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 

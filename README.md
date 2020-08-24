@@ -15,12 +15,15 @@ Hi my name is **Jacopo** i'm a *17yo* "programmer"
 </a>
 
 ## Main Repository:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=Germafrancabot&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href ="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=Germafrancabot&theme=highcontrast"
+</a>
 
 <a href ="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=highcontrast"
 </a>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 
 

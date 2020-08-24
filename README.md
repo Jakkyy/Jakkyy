@@ -1,4 +1,4 @@
-![Discord-logo](/assets/discord-logo.png)
+[Discord Server](https://discord.gg/bSEnnT)
 
 
 

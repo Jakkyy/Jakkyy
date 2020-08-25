@@ -1,4 +1,4 @@
-# Hi, my name is [Jacopo](https://imgur.com/SylYz6c) 👋
+# Hello, and welcome to my [Profile](https://github.com/Jakkyy) 👋
 
 Hi my name is **[Jacopo](https://imgur.com/SylYz6c)** i'm a *17yo* "programmer" from _italy_ 🍝
 

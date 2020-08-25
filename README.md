@@ -1,6 +1,6 @@
 # Hi, my name is [Jacopo](https://imgur.com/SylYz6c) 👋
 
-Hi my name is **Jacopo** i'm a *17yo* "programmer" from _italy_ 🍝
+Hi my name is **[Jacopo](https://imgur.com/SylYz6c)** i'm a *17yo* "programmer" from _italy_ 🍝
 
 I'm currently learning **JavaScript** and **Html/Css**.  
 At school i'm learning **C** (_The basics_).  

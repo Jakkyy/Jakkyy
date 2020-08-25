@@ -38,6 +38,7 @@ In future i'll study **Python** and **deep learning** because i think it's an in
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=calm"
 </a>
   
+For this readme i took the idea by [Anurag](https://github.com/anuraghazra)
 
 
 

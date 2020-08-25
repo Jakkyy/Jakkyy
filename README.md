@@ -4,7 +4,7 @@ Hi my name is **Jacopo** i'm a *17yo* "programmer" from _italy_ 🍝
 
 I'm currently learning **JavaScript** and **Html/Css**.  
 At school i'm learning **C** (_The basics_).  
-I like programming and i would be a programmer a  day 🙂
+I like programming and i would be a _programmer_ a  day 🙂
 
 ### Social:
 [Discord Server](https://discord.gg/bSEnnT)

@@ -20,7 +20,7 @@ In future i'll study **Python** and **deep learning** because i think it's an in
 
  
 - 📝  If you have any question -> [Click here](https://github.com/Jakkyy/Jakkyy/issues)
-- 📝  SI
+- 💻  Developing [Germafranca]() bot (*Js*)
 - 📝  NO
 
 

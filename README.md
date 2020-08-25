@@ -6,8 +6,7 @@ I'm currently learning **JavaScript** and **Html/Css**.
 At school i'm learning **C** (_The basics_).  
 I like programming and i would be a _programmer_ a  day 🙂
 
-### Social:
-[Discord Server](https://discord.gg/bSEnnT)
+### Social:  [Discord Server](https://discord.gg/bSEnnT)
 ---
 ### Languages learned: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

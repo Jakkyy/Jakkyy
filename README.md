@@ -18,10 +18,10 @@ In future i'll study **Python** and **deep learning** because i think it's an in
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
- 
-- 📝  If you have any question -> [Click here](https://github.com/Jakkyy/Jakkyy/issues)
-- a
+  
 - 💻  Developing [Germafranca bot](https://discord.com/api/oauth2/authorize?client_id=696433893351358494&permissions=8&scope=bot) ( *Js* )
+- a
+- 📝  If you have any question -> [Click here](https://github.com/Jakkyy/Jakkyy/issues)
 
 
 

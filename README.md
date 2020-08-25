@@ -34,7 +34,7 @@ In future i'll study **Python** and **deep learning** because i think it's an in
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=Germafrancabot&theme=calm"
 </a>
 
-<a href ="https://github.com/Jakky/C-Excercise">
+<a href ="https://github.com/Jakkyy/C-Excercise">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=C-Excercise&theme=calm"
 </a>
   

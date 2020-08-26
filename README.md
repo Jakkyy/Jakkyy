@@ -1,6 +1,6 @@
 # Hello, and welcome to my [Profile](https://github.com/Jakkyy) 👋
 
-Hi my name is **[Jacopo](https://imgur.com/SylYz6c)** i'm a *17yo* "programmer" from _italy_ 🍝
+Hi my name is **[Jacopo](https://jakkyy.github.io/XII.io/)** i'm a *17yo* "programmer" from _italy_ 🍝
 
 I'm currently learning **JavaScript** and **Html/Css**.  
 At school i'm learning **C** (_The basics_).  

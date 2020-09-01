@@ -7,7 +7,7 @@ At school i'm learning **C** (_The basics_).
 I like programming and i would be a _programmer_ a  day 🙂    
 
 
-
+https://img.shields.io/github/followers/Jakkyy?style=social
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/sBZMmE)
 
 ---

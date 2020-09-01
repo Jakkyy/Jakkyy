@@ -9,7 +9,7 @@ Hi my name is **[Jacopo](https://jakkyy.github.io/XII.io/)** i'm a *17yo* "progr
 </div>
 
 
-[![Followers](https://img.shields.io/github/followers/Jakkyy?style=social)
+[!Followers](https://img.shields.io/github/followers/Jakkyy?style=social)
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/sBZMmE)
 
 ---

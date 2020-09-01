@@ -14,7 +14,7 @@ I like programming and i would be a _programmer_ a  day 🙂  <br>
 
 ---
 
-<h2 align="center"> 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝑳𝒆𝒂𝒓𝒏𝒆𝒅 </h2>
+<h2 align="center"> 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 𝐿𝑒𝑎𝑟𝑛𝑒𝑑: </h2>
 <div align ="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>

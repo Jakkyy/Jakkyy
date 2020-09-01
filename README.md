@@ -35,7 +35,7 @@ I like programming and i would be a _programmer_ a  day 🙂  <br>
 
 ---
 
-## 𝑴𝒂𝒊𝒏 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚:
+## 𝑀𝑎𝑖𝑛 𝑅𝑒𝑝𝑜𝑠𝑖𝑡𝑜𝑟𝑦:
 
 <a href ="https://github.com/Jakkyy/Germafrancabot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakkyy&repo=Germafrancabot&theme=calm"

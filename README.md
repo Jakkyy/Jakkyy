@@ -24,9 +24,10 @@ I like programming and i would be a _programmer_ a  day 🙂
 </div>
 
   <br>  
-  - 💻  Developing [Germafranca bot](https://discord.com/api/oauth2/authorize?client_id=696433893351358494&permissions=8&scope=bot) ( *Js* )
-  - a
-  - 📝  If you have any question [Click here](https://github.com/Jakkyy/Jakkyy/issues)
+  
+  - 💻  Developing [Germafranca bot](https://discord.com/api/oauth2/authorize?client_id=696433893351358494&permissions=8&scope=bot) ( *Js* )  
+  - a  
+  - 📝  If you have any question [Click here](https://github.com/Jakkyy/Jakkyy/issues)  
 
 
 

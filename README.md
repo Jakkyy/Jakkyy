@@ -5,6 +5,7 @@ Hi my name is **[Jacopo](https://jakkyy.github.io/XII.io/)** i'm a *17yo* "progr
 I'm currently learning **JavaScript** and **Html/Css**.  
 At school i'm learning **C** (_The basics_).  
 I like programming and i would be a _programmer_ a  day 🙂  
+  
 
 
 
@@ -22,11 +23,11 @@ I like programming and i would be a _programmer_ a  day 🙂
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
-<div>
+
   - 💻  Developing [Germafranca bot](https://discord.com/api/oauth2/authorize?client_id=696433893351358494&permissions=8&scope=bot) ( *Js* )
   - a
   - 📝  If you have any question [Click here](https://github.com/Jakkyy/Jakkyy/issues)
-</div
+
 
 
 

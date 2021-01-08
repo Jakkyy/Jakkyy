@@ -3,7 +3,7 @@
 Hi my name is **[Jacopo](https://jakkyy.github.io/XII.io/)** i'm a *17yo* "programmer" from _italy_ 🍝
 
 I'm currently learning **JavaScript** and **Html/Css**.  
-At school i'm learning **C** (_The basics_).  
+At school i'm learning **Java** (_The basics_).  
 I like programming and i would be a _programmer_ a  day 🙂  <br>
   
 

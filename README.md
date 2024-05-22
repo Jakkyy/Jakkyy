@@ -1,5 +1,5 @@
-<img style="height: 400px; width: 100%" src="https://cdn.discordapp.com/attachments/1059508797665718323/1242945537955856424/mac-os-x-os-x-big-sur-hd-wallpaper-preview.jpg?ex=664faebd&is=664e5d3d&hm=6b234445f029a50a4a1ec73f21e46e41887e91a2cab1b4bce28537f869e03cb5&">
-<h3 align="center">
+<img style="height: 300px; width: 100%" src="https://cdn.discordapp.com/attachments/1059508797665718323/1242947017844592720/you.png?ex=664fb01d&is=664e5e9d&hm=b4a31c2a1fe238ccb980b1cb3f6d7f820faddb56049e7d7eec9a2cbcb9bc551a&">
+<h3 align="center" style="color: #554aac">
    「 ‎​ ​​​​​My workspace 」
 </h3>
 

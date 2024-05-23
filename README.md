@@ -1,4 +1,4 @@
-<img style="height: 300px; width: 100%" src="https://cdn.discordapp.com/attachments/1059508797665718323/1242947017844592720/you.png?ex=664fb01d&is=664e5e9d&hm=b4a31c2a1fe238ccb980b1cb3f6d7f820faddb56049e7d7eec9a2cbcb9bc551a&">
+<img style="height: 200px; width: 100%" src="https://cdn.discordapp.com/attachments/1059508797665718323/1242947017844592720/you.png?ex=664fb01d&is=664e5e9d&hm=b4a31c2a1fe238ccb980b1cb3f6d7f820faddb56049e7d7eec9a2cbcb9bc551a&">
 <h3 align="center" style="color: #554aac">
    「 ‎​ ​​​​​My workspace 」
 </h3>

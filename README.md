@@ -1,4 +1,6 @@
 <img style="height: 200px; width: 100%" src="https://i.imgur.com/xz9pgtH_d.webp?maxwidth=760&fidelity=grand">
+
+<h1 align="center"> Hi, my name is Jacopo 👋 </h1>
 <h3 align="center" style="color: #554aac">
    「 ‎​ ​​​​​My workspace 」
 </h3>

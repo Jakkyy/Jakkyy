@@ -30,7 +30,7 @@
 <hr/>
 
 <li>
-   🔭 I’m actively working on <em> <a href="https://www.wtbmarketlist.eu/"> WTB Market </a> </em> 
+   🔭 I’m actively working on <em> <a href="https://www.wtbmarketlist.eu/"> WTB Market </a> </em> as a SOLO dev
 </li>
 <li>
    🌱 I’m currently learning TypeScript, Prisma and Astro.

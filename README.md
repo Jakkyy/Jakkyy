@@ -30,13 +30,13 @@
 <hr/>
 
 <li>
-   🔭 I’m actively working on a <em> <a href="https://www.wtbmarketlist.eu/"> SAAS Dashboard </a> </em> 
+   🔭 I’m actively working on <em> <a href="https://www.wtbmarketlist.eu/"> WTB Market </a> </em> 
 </li>
 <li>
    🌱 I’m currently learning TypeScript, Prisma and Astro.
 </li>
 <li>
-   👨‍💻 My personal portfolio is finally here: <em> https://jvkky.me </em> 
+   👨‍💻 My personal portfolio: <em> https://jvkky.me </em> 
 </li>
 <li>
    💬 You can reach me via  email at <em><a href="mailto:someone@jacopo.cartabmb@gmail.com"> jacopo.cartabmb@gmail.com</a></em> or via <em> <a href="https://discord.com/users/610940040536915978"> discord </a> </em> 

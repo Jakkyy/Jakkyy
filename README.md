@@ -30,10 +30,10 @@
 <hr/>
 
 <li>
-   🔭 I’m actively working on <em> <a href="https://www.wtbmarketlist.eu/"> WTB Market </a> </em> as a SOLO dev
+   🔭 I’m actively working on <em> <a href="https://www.wtbmarketlist.eu/"> WTB Market </a> </em> as a solo dev
 </li>
 <li>
-   🌱 I’m currently learning TypeScript, Prisma and Astro.
+      🌱 I’m currently learning Playwright, Prisma and CI/CD Pipelines
 </li>
 <li>
    👨‍💻 My personal portfolio: <em> https://jvkky.me </em> 

@@ -36,7 +36,7 @@
       🌱 I’m currently learning Playwright, Prisma and CI/CD Pipelines
 </li>
 <li>
-   👨‍💻 My personal portfolio: <em> https://jvkky.me </em> 
+   👨‍💻 My personal portfolio: <em> https://jacopocarta.com </em> 
 </li>
 <li>
    💬 You can reach me via  email at <em><a href="mailto:someone@jacopo.cartabmb@gmail.com"> jacopo.cartabmb@gmail.com</a></em> or via <em> <a href="https://discord.com/users/610940040536915978"> discord </a> </em> 

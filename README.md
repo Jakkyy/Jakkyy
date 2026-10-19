@@ -1,4 +1,4 @@
-<img style="height: 200px; width: 100%" src="https://jacopocarta.com/og.png">
+<img style="height: 420px; width: 100%" src="https://jacopocarta.com/og.png">
 
 <h1 align="center"> Hi, my name is Jacopo 👋 </h1>
 <h3 align="center" style="color: #554aac">

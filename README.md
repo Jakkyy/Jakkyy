@@ -1,4 +1,4 @@
-<img style="height: 600px; width: 100%" src="https://jacopocarta.com/og.png">
+<img src="github-banner.png" width="100%"/>
 
 <h3 align="center">
    「  Tech Stack  」 
